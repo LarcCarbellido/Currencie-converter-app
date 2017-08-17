@@ -1,0 +1,17 @@
+label.ng-required {
+  border-color: red;
+  .input-label {
+    color: red;
+  }
+  &~label {
+    border-color: red;
+  }
+}
+
+.item.item-select {
+  padding: 5px 16px;
+}
+
+.note {
+  padding: 5px;
+}
