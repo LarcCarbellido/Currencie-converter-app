@@ -1,4 +1,4 @@
-# Convertir dividas - APP para iOS y Android
+# Convertir divisas - APP para iOS y Android
 
 App creada con Angular JS
 
